@@ -40,7 +40,7 @@ public class phpTravels extends Frame implements WindowListener,ActionListener {
 //Hierarchy!
 //		JFrame
 //		'-JPanel
-//	    	'-JButton
+//	    		'-JButton
 //			'-JTextField
 //			'-JComboBox
 //			'-JLabel
